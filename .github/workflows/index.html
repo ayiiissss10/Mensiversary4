@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flappy Heart</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="gameContainer">
+  <canvas id="game" width="360" height="540"></canvas>
+  <div id="hud"></div>
+  <div id="overlay">
+    <h1>FLAPPY HEART</h1>
+    <p>Kumpulkan 4 hati, hindari pipa!</p>
+    <p>Tekan SPASI / klik / tap untuk terbang</p>
+    <button class="btn" id="startBtn">MULAI</button>
+  </div>
+</div>
+
+<div id="letterPage">
+  <div id="letterCard">
+    <div id="letterHeartHeader">
+      <svg viewBox="0 0 32 28" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16 26 C16 26 2 17 2 8 C2 3 6 0 10 0 C13 0 15 2 16 4 C17 2 19 0 22 0 C26 0 30 3 30 8 C30 17 16 26 16 26 Z" fill="#ff4d6d" stroke="#c9184a" stroke-width="2"/>
+      </svg>
+    </div>
+    <div id="letterBody"></div>
+    <button class="btn" id="letterBackBtn">MAIN LAGI</button>
+  </div>
+  <audio id="letterMusic" src="Takkan-Kemana.mp3" loop preload="auto"></audio>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
