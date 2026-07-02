@@ -137,13 +137,13 @@ const LOVE_LETTER_TEXT = `hai sayangku,
 
 Aku ga pandai ngerangkai kata kata, akupun kurang bisa menyampaikan perasaanku yang sebenarnya, tapi sayang sejak ada kamu semuanya terasa lebih indah, semuanya terasa lebih menyenangkan dan lebih ringan, terima kasih ya sayangku, aku sangat sangat beruntung dan bersyukur punya kamu di dalam hidupku, aku senang bisa milikin kamu di dalam hidup aku sayang.
 
-Terima kasih sudah menjadi alasan aku tersenyum di hari-hari yang ringan dan berat ya sayangg, dan menjadi tempat pulang paling nyaman di antara semua kekacauan. Kamu selalu bikin aku merasa aman, nyaman, dan selalu dicintai. Aku sayang banget sama kamu, aku cinta banget sama kamu, aku ga tau gimana caranya kalau harus hidup tanpa kamu nantinya, aku ga mau hidup tanpa kamu, aku mau selalu ada buat kamu, aku mau selalu nemenin kamu, aku mau selalu bikin kamu bahagia, aku mau selalu bikin kamu tersenyum, aku mau selalu bikin kamu ngerasa dicintai sepenuh hati aku, aku gamau kehilangan kamu, aku ga mau ngelepasin kamu.
+Terima kasih sudah menjadi alasan aku tersenyum di hari-hari yang ringan maupun berat ya sayangg, dan terima kasih sudah menjadi tempat pulang paling nyaman di antara semua kekacauan. Kamu selalu bikin aku merasa aman, nyaman, dan selalu dicintai. Aku sayang banget sama kamu, aku cinta banget sama kamu, aku ga tau gimana caranya kalau harus hidup tanpa kamu nantinya, aku ga mau hidup tanpa kamu, aku mau selalu ada buat kamu, aku mau selalu nemenin kamu, aku mau selalu bikin kamu bahagia, aku mau selalu bikin kamu tersenyum, aku mau selalu bikin kamu ngerasa dicintai sepenuh hati aku, aku gamau kehilangan kamu, aku ga mau ngelepasin kamu.
 
 Maaf ya sayang kalau selama sama aku banyak kurangnya, mungkin kamu selalu ngerasa kesal, bete, marah sama aku, aku minta maaf ya sayang. Aku janji aku bakal selalu berusaha jadi yang terbaik buat kamu, aku bakal selalu mengusahakan apapun buat kamu sayang, aku bakal memperbaiki semua kesalahan aku, aku gamau kamu ngerasa kurang sedikitpun sayang.
 
 Aku sayang banget sama kamu sayang, aku selalu sayang sama kamu, aku selalu cinta sama kamu, jangan pernah ragu sama perasaan aku ya sayang, i love u so much, i really love u more than anything in this world, i love u more than my own life, i love u to the moon and back.
 
-Selamat tanggal 3 yang ke-empat kesayanganku, 
+Selamat tanggal 3 yang ke-empat kesayanganku dan sampai ketemu di tanggal 3 berikutnya sayang, 
 
 Dariku yang selalu mencintaimu`;
 
